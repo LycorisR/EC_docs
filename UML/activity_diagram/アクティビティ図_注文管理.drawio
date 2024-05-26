@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T16:47:00.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OCCrCCCy5UkyJpfTd05j" version="24.4.4" type="google">
+<mxfile host="app.diagrams.net" modified="2024-05-24T15:05:54.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kfg8Z-GHe7s1e9jWvblM" version="24.4.8" type="google">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,8 +72,8 @@
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-120" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="108" y="1801" width="60" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-126" value="配送先住所が登録済み&lt;div&gt;である場合&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
-          <mxGeometry x="-1.5" y="1781" width="140" height="40" as="geometry" />
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-126" value="お届け先情報が登録済み&lt;div&gt;である場合&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
+          <mxGeometry x="-11.5" y="1781" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JrYKbtGQ8v13GvmCwRtV-3" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;購入確認ボタンを&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;押下&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="2">
           <mxGeometry x="78" y="2761" width="120" height="40" as="geometry" />
@@ -462,22 +462,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-121" value="配送先住所が未登録&lt;div&gt;である場合&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-121" value="お届け先が未登録&lt;div&gt;である場合&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="1881" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-122" value="配送先住所の&lt;div&gt;登録ボタンを押下&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-122" value="お届け先の&lt;div&gt;登録ボタンを押下&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-124" target="ujE0xhHbQEDL6SDgRYvv-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-124" value="配送先住所を入力" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-124" value="お届け先を入力" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="240" y="2000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JrYKbtGQ8v13GvmCwRtV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-125" target="JrYKbtGQ8v13GvmCwRtV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-125" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;配送先住所を選択&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-125" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;お届け先を選択&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="240" y="2720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-127" value="登録ボタンを押下" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
@@ -495,13 +495,13 @@
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-129" value="エラー内容を&lt;div&gt;確認&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="240" y="2400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-130" value="配送先住所登録画面を表示" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-130" value="お届け先登録画面を表示" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-132" target="ujE0xhHbQEDL6SDgRYvv-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-132" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;配送先住所&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;を登録した&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;メッセージを表示&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-132" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;お届け先&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;を登録した&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;メッセージを表示&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="519.5" y="2640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-133" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;購入画面を表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
@@ -562,7 +562,7 @@
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-148" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550.9000000000001" y="2161" width="57.76" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-149" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;配送先住所登録　&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;APIリクエストを送信&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-149" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;お届け先&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;情報&lt;/span&gt;登録　&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;APIリクエストを送信&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="519.78" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-151" target="ujE0xhHbQEDL6SDgRYvv-154">
@@ -591,7 +591,7 @@
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-156" value="不正な値である場合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="739.53" y="2359" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-157" value="配送先住所&lt;span style=&quot;font-size: 11px;&quot;&gt;を登録&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-157" value="お届け先&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;情報&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;を登録&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="799.03" y="2480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-159" target="ujE0xhHbQEDL6SDgRYvv-137">
@@ -603,7 +603,7 @@
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-161" target="ujE0xhHbQEDL6SDgRYvv-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-161" value="配送先住所&lt;span style=&quot;font-size: 11px;&quot;&gt;を登録&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-161" value="お届け先&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;情報&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;を登録&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="1079.53" y="2560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-157" target="ujE0xhHbQEDL6SDgRYvv-161">
