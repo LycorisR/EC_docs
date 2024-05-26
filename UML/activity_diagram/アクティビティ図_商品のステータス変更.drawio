@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T17:53:29.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="N-kGnNn53ZBvpGXd8Ghr" version="24.4.4" type="google">
+<mxfile host="app.diagrams.net" modified="2024-05-24T14:51:58.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lDEuQ1OG_11eusRasAgu" version="24.4.8" type="google">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint x="69.4" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-VuOnmddn5Kc5zJFQEK-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.848;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2" target="5-VuOnmddn5Kc5zJFQEK-16" source="5-VuOnmddn5Kc5zJFQEK-13">
+        <mxCell id="5-VuOnmddn5Kc5zJFQEK-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.848;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2" source="5-VuOnmddn5Kc5zJFQEK-13" target="5-VuOnmddn5Kc5zJFQEK-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="209" y="444" as="sourcePoint" />
             <mxPoint x="210" y="481" as="targetPoint" />
@@ -117,7 +117,7 @@
           <mxGeometry x="78" y="481" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A3Edsd41Y0O4viAVBODO-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;商品ステータス変更&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;APIリクエストを送信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="3">
-          <mxGeometry x="78.75" y="1041" width="120" height="40" as="geometry" />
+          <mxGeometry x="77.75" y="1041" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8I3BG0zYxxP-uITHRNjk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="8I3BG0zYxxP-uITHRNjk-6" target="8I3BG0zYxxP-uITHRNjk-7">
           <mxGeometry relative="1" as="geometry" />
