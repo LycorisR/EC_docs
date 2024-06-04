@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T15:05:54.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kfg8Z-GHe7s1e9jWvblM" version="24.4.8" type="google">
+<mxfile host="app.diagrams.net" modified="2024-06-01T07:59:02.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tPKPvXQM6i6jQ4m4gtzc" version="24.4.9" type="google">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="2" value="購入ユーザー" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="161.5" y="39" width="280" height="3521" as="geometry" />
         </mxCell>
-        <mxCell id="WvElCNo4vnSuFBghOQTC-68" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;レジへボタンを押下&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="2">
+        <mxCell id="WvElCNo4vnSuFBghOQTC-68" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;レジに進むボタンを&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;押下&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="2">
           <mxGeometry x="78.5" y="841" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="79C8k76Zv3gLMIBIUcLn-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=default;" vertex="1" parent="2">
@@ -36,7 +36,7 @@
         <mxCell id="3yCVu83lC0UBpUjsyana-78" value="支払い方法が未登録&lt;div&gt;である場合&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
           <mxGeometry x="138.5" y="962" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3yCVu83lC0UBpUjsyana-79" value="支払い方法の&lt;div&gt;登録ボタンを押下&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="2">
+        <mxCell id="3yCVu83lC0UBpUjsyana-79" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;クレジットカードを&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;追加するボタン&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;を押下&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="2">
           <mxGeometry x="80" y="1001" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="3yCVu83lC0UBpUjsyana-84" target="ujE0xhHbQEDL6SDgRYvv-66">
@@ -87,7 +87,7 @@
         <mxCell id="3yCVu83lC0UBpUjsyana-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;購入画面を表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="3">
           <mxGeometry x="79" y="841" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3yCVu83lC0UBpUjsyana-82" value="支払い情報登録画面を表示" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="3">
+        <mxCell id="3yCVu83lC0UBpUjsyana-82" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;支払い情報登録の&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;モーダルウィンドウを&lt;/i&gt;表示&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="3">
           <mxGeometry x="80" y="1001" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-82" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;購入画面を表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="3">
@@ -495,7 +495,7 @@
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-129" value="エラー内容を&lt;div&gt;確認&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="240" y="2400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ujE0xhHbQEDL6SDgRYvv-130" value="お届け先登録画面を表示" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="ujE0xhHbQEDL6SDgRYvv-130" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;お届け先登録の&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;モーダルウィンドウ&lt;/i&gt;を表示&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujE0xhHbQEDL6SDgRYvv-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujE0xhHbQEDL6SDgRYvv-132" target="ujE0xhHbQEDL6SDgRYvv-133">
